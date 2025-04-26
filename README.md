@@ -1,2 +1,2 @@
-# Steganography-
+# Steganography
 FINKI DPNS Project 
