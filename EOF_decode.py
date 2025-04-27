@@ -1,6 +1,3 @@
-import cv2
-import os
-
 def decode(stego_path, recovered_secret_path):
     with open(stego_path, 'rb') as f:
         data = f.read()
