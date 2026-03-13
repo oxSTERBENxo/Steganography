@@ -1,4 +1,4 @@
 # Steganography
-FINKI DPNS Project 
+
 
 
