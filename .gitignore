@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# OS / temporary files
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
